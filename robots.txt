@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ardus11.github.io/Peta-Kel-Battang/sitemap.xml
